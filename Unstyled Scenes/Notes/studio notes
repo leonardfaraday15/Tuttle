@@ -1,0 +1,44 @@
+
+The Studio-	studio empty.blend
+
+LAYERS
+
+Characters
+Control Rigs
+Floor
+Walls
+Roof
+
+Furniture
+Tools
+
+Three point lighting
+Four point lighting
+
+Camera Crane
+Camera Dolly
+
+OBJECTS
+
+Floor               3        
+North Wall          4
+West Wall           4
+Roof                5
+Stool               6
+Table               6
+Curtain             7
+Drinking Cup/Glass
+
+
+PLANNED STYLES
+
+studio uvless.blend
+studio low impact.blend
+studio basic toon.blend
+studio basic shader.blend
+studio basic freestyle.blend
+studio basic two tone.blend
+
+studio cycles toon.blend
+studio cycles shader.blend
+studio cycles film noire.blend

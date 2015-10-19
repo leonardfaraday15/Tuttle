@@ -1,0 +1,8 @@
+COLLECTION WORKFLOW
+
+A collection takes modules, small objects which will be assembled into 
+larger objects, and organizes them in a useful manner within a blend file.
+
+There are two sorts of collections, the unstyled original collection, and 
+then the version of the blend fyle where style information has been altered.
+

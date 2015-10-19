@@ -1,0 +1,18 @@
+alien satellite parts.blend
+alien satellite.blend includes finished model
+
+Parts and layers:
+
+Front
+The Eye
+Body Slice
+Finished Body
+Solar Panel single
+Replicated Panels
+Rear
+Engine
+
+I will rig the solar panels so that they rise up and spread. Each of three solar panels need to be similarly rigged, so what I should do is create
+the rig for one panel which is in the proper location.
+
+Then I can create the two other extensions of that rig (originating at a point inside the satellite) 

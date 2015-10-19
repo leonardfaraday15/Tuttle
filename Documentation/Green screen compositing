@@ -1,0 +1,18 @@
+Green Screen Compositing or Masking
+
+Select modes in upper left, go to compositing mode.
+You can close the model view.
+Make frame rates correct in the right tab.
+
+Go to the nodes window:
+	Need composite node
+	Need comnposite and video nodes on the right side
+	Add a movie clip on the left side
+	connect movie clip to video, image to image
+	Add channel key between clip and video
+	Add color spill node between channel key and video
+	Add input image above the clip on the left
+	Open an image for background
+
+
+

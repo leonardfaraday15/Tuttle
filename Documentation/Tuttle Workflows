@@ -1,0 +1,61 @@
+
+The Workflow for characters:
+0.	Plan the overall build.
+1.	Assemble modules
+2.	Stitch together.
+3.	Assign vertex groups, materials.
+4.	UV Unwrapping.
+5.	Texture painting.
+6.	Complete the mirror.
+7.	Strand rendering and particle system assignment.
+8.	Rigging.
+9.	Skinning.
+10.	Assign pose library.
+11.	Finishing Shot.
+
+PLANNING
+
+ASSEMBLE MODULES
+
+STICH TOGETHER
+
+ASSIGN VERTEX GROUPS, MATERIALS, OBJECT ATTRIBUTES
+
+CHARACTER MODELING
+
+UV UNWRAPPING
+
+TEXTURE PAINTING
+
+The UV unwrapping process should be followed faithfully before doing this.
+
+Go to default engine.
+Change viewport display by tapping 'n.' Then go down to shading and change from multitexture to GLSL Shading.
+Make sure there is a light by adding a hemi light, and make it face the appropriate direction.
+Change our display from solid to textured, which makes it look black.
+Go to the materials panel at right. Switch from data to object. Press new for a new material slot.
+Add the eyes to that material.
+Rename the material to something relating to the character.
+Go to texture paint mode.
+Go to tools on left and add a alpha slot texture. It will now appear in the texture slot under this material.
+Change that texture to 2048 x 2048 in the texture panel.
+Remember that when texture painting, you must save twice. You have to save the blend, and you must also save the texture.
+On the bottom bar, there is a button that will toggle on or off a mask, which allows you to right click specific faces. Painting will then be limited to those faces which you have selected. Selecting l will limit you to painting on that specific piece. (This is limited through your masking process.)
+Load a reference image if you have one. Remember you can sample colors from it.
+Pressing l while holding brush over a piece should limit the selection in some cases. (Test)
+
+
+Types of Brush:
+Fill Brush: (To make a new one..)
+
+
+Shortcuts to remember-
+f		changes the width of brush
+shift-f		changes the strength of the brush
+
+APPLY MIRROR MODIFICATION
+
+RIGGING 
+
+SKINNING
+

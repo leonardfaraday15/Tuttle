@@ -1,0 +1,7 @@
+
+curtain.blend in parts
+
+The curtains included in parts are fairly uniform looking, and small. You would first want to use an array to multiply to proper size.
+Then you would want to make minor alterations with pef turned on. The subdivision modifier is present,but not yet applied.
+
+theater curtains are 3m high and extend from the back only 7cm

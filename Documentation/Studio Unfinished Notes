@@ -1,0 +1,53 @@
+
+Studio Unfinished
+
+This is the scene blend for the unfinished studio. It is provided in this way to make it easier to quickly adapt this
+scene into new styles of animation. Meshes included have no materials or textures currently defined. This is the file
+used to create establishing shots for each style.
+
+References:
+    Several models were provided by
+    Most of my scenes include dolly and crane cameras, included with a script provided by 
+    The coffee table model was provided by dpamplin at blender swap
+    http://www.blendswap.com/user/dpamplin
+
+This layer structure is used in all my blends, unless I indicate otherwise.
+
+Characters      1
+Control Rigs    2
+Floor           3
+Walls           4
+Roof            5
+Furniture       6
+Tools           7
+Camera Dolly    8
+Camera Crane    9
+Camera Other    10
+Sun lighting    11
+Studio lighting 12
+Trashcan        20
+
+Materials will need to be assigned commonly in most styles are:
+    
+Floor
+Walls
+Roof
+Backdrop
+Spotlight Support
+Dark Plastic
+Chrome
+Chrome II
+Bulb
+Casing for the light source
+
+Used Materials:
+    Rubber
+    Chrome
+    Knob
+    Glass
+    Cofee Table
+    Backdrop
+    Floor
+    Walls
+    Roof
+    Plastic Case
